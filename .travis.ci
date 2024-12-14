@@ -9,3 +9,4 @@ install:
 script:
   - chmod +x *
   - travis_wait 120 python3 rex.py   # Run the second script with a wait of 30 minutes
+ 
